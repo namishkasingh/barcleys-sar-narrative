@@ -1,0 +1,12 @@
+venv_tf/ 
+__pycache__/ 
+*.pyc 
+.DS_Store 
+archive/ 
+"backend/data/creditcard.csv" 
+"archive.zip" 
+"*.csv" 
+"backend/data/creditcard.csv" 
+"archive.zip" 
+"*.csv" 
+"*.zip" 
