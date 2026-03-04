@@ -73,21 +73,21 @@ python generate_graphs.py
 ## ?? Project Structure 
  
 ```` 
-ÃÄÄ backend/ 
-³   ÃÄÄ api/              # API endpoints 
-³   ³   ÃÄÄ app.py 
-³   ³   ÀÄÄ app_with_db.py 
-³   ÀÄÄ data/ 
-³       ÀÄÄ synthetic/     # Generated synthetic data 
-ÃÄÄ frontend/ 
-³   ÀÄÄ sar_dashboard.py   # Main dashboard 
-ÃÄÄ notebooks/ 
-³   ÀÄÄ ctgan_training/    # CTGAN training notebooks 
-ÃÄÄ audit_trail/           # System audit logs 
-ÃÄÄ vector_db/             # Vector embeddings storage 
-ÃÄÄ generate_graphs.py      # Graph generation script 
-ÃÄÄ graph*.png             # Generated visualizations 
-ÀÄÄ README.md              # This file 
+ÃƒÃ„Ã„ backend/ 
+Â³   ÃƒÃ„Ã„ api/              # API endpoints 
+Â³   Â³   ÃƒÃ„Ã„ app.py 
+Â³   Â³   Ã€Ã„Ã„ app_with_db.py 
+Â³   Ã€Ã„Ã„ data/ 
+Â³       Ã€Ã„Ã„ synthetic/     # Generated synthetic data 
+ÃƒÃ„Ã„ frontend/ 
+Â³   Ã€Ã„Ã„ sar_dashboard.py   # Main dashboard 
+ÃƒÃ„Ã„ notebooks/ 
+Â³   Ã€Ã„Ã„ ctgan_training/    # CTGAN training notebooks 
+ÃƒÃ„Ã„ audit_trail/           # System audit logs 
+ÃƒÃ„Ã„ vector_db/             # Vector embeddings storage 
+ÃƒÃ„Ã„ generate_graphs.py      # Graph generation script 
+ÃƒÃ„Ã„ graph*.png             # Generated visualizations 
+Ã€Ã„Ã„ README.md              # This file 
 ```` 
  
 ## ?? Notes on Large Files 
@@ -102,10 +102,12 @@ To use these files, download them separately and place them in the appropriate d
 ## ?? Model Performance 
  
  
-## ?? Author 
+## Contributors 
  
 **Namishka Singh** 
-- GitHub: [@namishkasingh](https://github.com/namishkasingh) 
+- GitHub: [@namishkasingh](https://github.com/namishkasingh)
+**Shreyanshi Singh**
+- GitHub: [@shreyanshisingh15](https://github.com/shreyanshisingh15) 
  
 ## ?? License 
  
